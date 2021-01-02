@@ -1,0 +1,8 @@
+{
+  "name": "bishop-score-calculator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "c422aac6"
+}
