@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "608406882676",
+    "project_id": "bishop-score-calculator",
+    "storage_bucket": "bishop-score-calculator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608406882676:android:09eef4ae47c172ea65c421",
+        "android_client_info": {
+          "package_name": "com.imedicalapps.bishopscorecalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608406882676-b120vpp7qndprjcn5fh8vkt0b4raifte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAISf5o5xjDqET5eDTPA8TzjDtMSKQJUKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608406882676-b120vpp7qndprjcn5fh8vkt0b4raifte.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "608406882676-nvkjaa9van4i0rqhbe0kqubr73odre6n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.imedicalapps.pocketbishopscore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
